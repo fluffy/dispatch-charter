@@ -25,7 +25,7 @@ Guiding principles will include:
 
 1. Providing a clear problem statement for proposed new work.
 
-2. Prioritizing new efforts so that area does not take on more work
+2. Prioritizing new efforts so that the area does not take on more work
 than it can effectively complete.
 
 3. Looking for commonalities among ongoing development efforts.
