@@ -10,6 +10,7 @@ venue for the work. Options for handling new work include:
 - Directing the work to an existing WG.
 - Developing a proposal for a BOF.
 - Developing a charter and establishing consensus for a new WG.
+- By agreement with ART ADs, Dispatch can process simple documents such as IANA registrations or changes to IANA registration procedures
 - Rejecting and deferring work.
 
 A major objective of the DISPATCH WG is to provide timely, clear
