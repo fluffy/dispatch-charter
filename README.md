@@ -15,7 +15,7 @@ Guiding principles for the proposed new work include:
 
 3. Looking for and identifying commonalities and overlap amongst published or ongoing protocol work.  Such commonalities may indicate the possibility of reusing existing protocols or elements thereof published by other WGs, or expanding and/or refactoring the scope of deliverables in an active WG. 
 
-4. Protecting the architectural integrity of IETF protocols.   Ensure that new work has general applicability or is properly scoped in cases where the applicability is limited, but IETF has the expertise to develop such (e.g., proposals from other SDOs).
+4. Protecting the architectural integrity of IETF protocols and ensuring that new work has general applicability.
 
 5. Ensuring the new work considers the impact on security and privacy of both the network and the user.  
 
