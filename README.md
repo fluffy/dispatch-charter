@@ -24,7 +24,7 @@ Options for handling new work include:
 - Directing the work to an existing WG.
 - Developing a proposal for a BOF.
 - Developing a charter for a new WG.
-- By agreement with ART ADs, recommending documents for AD sponsorship and serving as a venue for discussion to progress them along that path.
+- Making recommendations that documents be AD-sponsored (which ADs may or may not choose to follow).
 - By agreement with ART ADs, processing simple documents. 
 - Deferring the decision for the new work.  
 - Rejecting the new work.  
@@ -33,10 +33,12 @@ If the group decides that a particular topic needs to be addressed by
 a new WG, the normal IETF chartering process will be
 followed, including, for instance, IETF-wide review of the proposed
 charter. Proposals for large work efforts SHOULD lead to a BOF where
-the topic can be discussed in front of the entire IETF community. 
-Typically, the simple documents processed as Dispatch WG documents would include IANA registrations or changes to IANA registration procedures.  Documents progressed as AD-sponsored would typically include those that do not have general 
+the topic can be discussed in front of the entire IETF community.  
+The DISPATCH WG will not do any protocol work. 
+Specifically, DISPATCH will always opt to find a location for technical work; the only work that DISPATCH is not required to delegate (or defer, or reject) is administrative work such as IANA actions.   Documents progressed as AD-sponsored would typically include those that do not have general 
 applicability to IETF protocols, but rather are only applicable to specific use cases and network deployments, for which the scope must be clearly specified.
-Proposed new work may be deferred in cases where the WG does not have enough information for the chairs to determine consensus.  New work may be rejected in cases where there is not sufficient WG interest or the proposal has been considered and rejected in the past and no new compelling reasons for accepting the new work are presented.
+
+Proposed new work may be deferred in cases where the WG does not have enough information for the chairs to determine consensus.  New work may be rejected in cases where there is not sufficient WG interest or the proposal has been considered and rejected in the past, unless a substantially revised proposal is put forth, including compelling new reasons for accepting the work. 
 
 A major objective of the DISPATCH WG is to provide timely, clear
 dispositions of new efforts. Thus, where there is consensus to take
