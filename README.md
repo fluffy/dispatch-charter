@@ -31,11 +31,20 @@ Guiding principles for the proposed new work include:
 
 Options for handling new work include:
 
-- Directing the work to an existing WG. Developing a proposal for a BOF.
-- Developing a charter for a new WG. Making recommendations that
-- documents be AD-sponsored (which ADs may or may not choose to follow).
-- By agreement with ART ADs, processing simple documents. Deferring the
-- decision for the new work. Rejecting the new work.
+- Directing the work to an existing WG.
+
+- Developing a proposal for a BOF.
+
+- Developing a charter for a new WG.
+
+- Making recommendations that documents be AD-sponsored (which ADs may
+  or may not choose to follow).
+
+- By agreement with ART ADs, processing simple documents.
+
+- Deferring the decision for the new work.
+
+- Rejecting the new work.
 
 If the group decides that a particular topic needs to be addressed by a
 new WG, the normal IETF chartering process will be followed, including,
