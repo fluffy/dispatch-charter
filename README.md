@@ -26,8 +26,7 @@ Guiding principles for the proposed new work include:
 4. Protecting the architectural integrity of IETF protocols and ensuring
    that new work has general applicability.
 
-5. Ensuring the new work considers the impact on security and privacy of
-   both the network and the user.
+5. Ensuring the new work considers security and privacy.
 
 Options for handling new work include:
 
